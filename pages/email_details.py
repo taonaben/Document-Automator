@@ -1,6 +1,6 @@
-password = 'lntk qjxy wwfk armx'
-email_address = 'munikwataona09@gmail.com'
-# email_address1 = 'taonbenjamin180903@gmail.com'
+password = 'your email password here'
+email_address = 'your email address here'
+# email_address1 = 'your secondary email address here'
 email_subject = "IT Internship Inquiry"
 email_body = f"Dear Sir/ Madam,\n\n" \
              f"I am writing to express my interest in the IT Internship position currently available" \
@@ -11,4 +11,4 @@ email_body = f"Dear Sir/ Madam,\n\n" \
              f" to schedule an interview or request additional information.\n\nThank you for your time and" \
              f" consideration.\n\nSincerely,\nTaona Munikwa B "
 
-attachment = r'C:\Users\taonb\PycharmProjects\Application letter Generator\letters\Taona Munikwa Curriculum Vitae.pdf'
+attachment = r'attach any neccesary files'
